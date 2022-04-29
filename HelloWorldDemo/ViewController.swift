@@ -37,7 +37,7 @@ class ViewController: UIViewController {
     }
     
     func dealOtherLogic() {
-        self.contentLabel.text = "Hello Jenkins"
+        self.contentLabel.text = "Hello Jenkins, I'm coming!"
     }
 
 }
